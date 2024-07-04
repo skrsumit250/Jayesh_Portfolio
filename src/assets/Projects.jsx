@@ -20,7 +20,7 @@ function Project() {
                 "Utilized ChromaDB for vector storage of custom data, enabling Retrieval-augmented generation(RAG), and deployed the solution using Gradio for user interaction and test evaluation."
 
             ],
-            logo: "/adobelogo.jpeg"
+            logo: "/Screenshot 2024-07-03 195341.png"
         },
         
         {
