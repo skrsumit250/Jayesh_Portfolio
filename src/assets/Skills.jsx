@@ -6,6 +6,7 @@ function Skills(){
               <li>Programming: Python, C, C++, R, SQL</li>
               <li>Python tools: Numpy, Pandas, Scikit-Learn, Streamlit, OpenCV</li>
               <li>ML Frameworks: Keras, Tensorflow, Pytorch</li>
+              <li>LLM Frameworks: Langchain</li>
               <li>Visualization Tools: Matplotlib, Seaborn</li>
           </ul>
         </section>
