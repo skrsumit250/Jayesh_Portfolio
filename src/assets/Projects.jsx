@@ -11,6 +11,19 @@ function Project() {
             logo: "/adobelogo.jpeg"
         },
         {
+            title: "QuizCrafter, AI Quiz Generator",
+            dates: "June 2024",
+            githubLink: "https://github.com/JAYESH1304/QuizCrafter",
+            description: [
+                "Developed an automated MCQ quiz generation system using Llama3 models, supporting both topic-based and custom PDF-based inputs.",
+                "Implemented a dual-model setup with Llama3 for MCQ generation and hallucination checks, ensuring quality and accuracy via LangChain integration.",
+                "Utilized ChromaDB for vector storage of custom data, enabling Retrieval-augmented generation(RAG), and deployed the solution using Gradio for user interaction and test evaluation."
+
+            ],
+            logo: "/adobelogo.jpeg"
+        },
+        
+        {
             title: "Cloudphysician’s The Vital Extraction Challenge, Inter IIT Tech Meet 11.0, IIT Kanpur",
             dates: "Jan 2023 - Feb 2023",
             githubLink: "https://github.com/JAYESH1304/CloudPhysician-s-Vital-Extraction-Challenge",
