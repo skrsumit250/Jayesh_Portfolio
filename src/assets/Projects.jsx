@@ -35,11 +35,14 @@ function Project() {
               <h6>{project.title}</h6>
               <p>{project.dates}</p>
               <a href={project.githubLink}>Github link</a>
+              <br></br><br></br>
               <ul>
                 {project.description.map((descItem) => (
                   <li key={descItem}>{descItem}</li>
                 ))}
               </ul>
+              <br></br>
+              <br></br>
             </div>
           </div>
         ))}

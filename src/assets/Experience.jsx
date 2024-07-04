@@ -40,7 +40,7 @@ function Experience() {
             <div className="description">
               <h6>{experience.title}</h6>
               <p>{experience.date}</p>
-              <br />
+              <br></br>
               <ul>
                 {experience.description.map((descItem) => (
                   <li key={descItem}>{descItem}</li>
